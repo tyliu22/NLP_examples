@@ -1,0 +1,38 @@
+{
+  "os": "macOS-15.0-arm64-arm-64bit",
+  "python": "3.12.7",
+  "startedAt": "2024-10-18T13:47:26.055252Z",
+  "program": "/Users/tianyuliu/Code/llm/NLP_examples/src/llm/openai_api/Finetune API/finetune_with_W_B.ipynb",
+  "git": {
+    "remote": "git@github.com:tyliu22/NLP_examples.git",
+    "commit": "73181d0736485b8015a2024d4e532dcc10bd2899"
+  },
+  "email": "tyliu1122@gmail.com",
+  "root": "/Users/tianyuliu/Code/llm/NLP_examples/src/llm/openai_api/Finetune API",
+  "host": "TIANYUs-MacBook-Pro.local",
+  "username": "tianyuliu",
+  "executable": "/Users/tianyuliu/Library/Caches/pypoetry/virtualenvs/nlp-examples-2S-piTS9-py3.12/bin/python",
+  "codePathLocal": "finetune_with_W_B.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "148754948096"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M3",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 8
+  }
+}

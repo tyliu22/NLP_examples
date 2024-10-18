@@ -1,0 +1,42 @@
+{"time":"2024-10-19T00:50:50.636895+11:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-19T00:50:50.63694+11:00","level":"INFO","msg":"created symlink","path":"/Users/tianyuliu/Code/llm/NLP_examples/src/llm/openai_api/Finetune API/wandb/run-20241019_005050-evptcy40/logs/debug-core.log"}
+{"time":"2024-10-19T00:50:50.767662+11:00","level":"INFO","msg":"created new stream","id":"evptcy40"}
+{"time":"2024-10-19T00:50:50.767833+11:00","level":"INFO","msg":"stream: started","id":"evptcy40"}
+{"time":"2024-10-19T00:50:50.768178+11:00","level":"INFO","msg":"sender: started","stream_id":"evptcy40"}
+{"time":"2024-10-19T00:50:50.768006+11:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"evptcy40"}}
+{"time":"2024-10-19T00:50:50.768072+11:00","level":"INFO","msg":"handler: started","stream_id":{"value":"evptcy40"}}
+{"time":"2024-10-19T00:50:51.122055+11:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-19T00:50:52.876607+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T00:51:21.072944+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T00:51:21.08045+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T00:51:27.625831+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T00:51:27.670308+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T00:51:41.2065+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T00:51:41.209399+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T00:51:43.962105+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T00:51:44.886752+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T00:52:27.52279+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T00:52:27.52547+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T00:52:32.107665+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T00:52:32.113962+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T00:52:37.44024+11:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/tyliu1122-university-of-technology-sydney/OpenAI-Fine-Tune-test/evptcy40/file_stream\": read tcp 192.168.3.22:49167->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-10-19T01:21:29.987517+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T01:21:31.698835+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T01:23:07.073377+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T01:23:07.078338+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T01:23:19.577809+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T01:23:19.581754+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T01:24:49.420142+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T01:24:49.422904+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T01:25:01.547409+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T01:25:03.837595+11:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-19T01:28:50.171593+11:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-19T01:32:15.67442+11:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-19T01:32:15.677078+11:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-19T01:32:16.679973+11:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-metadata","runtime_seconds":1.010719916,"subtasks":[{"desc":"model_metadata.json","runtime_seconds":0.084944666,"progress":"755B/755B"}]}],"total_operations":1}}
+{"time":"2024-10-19T01:32:21.689505+11:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-19T01:32:22.971823+11:00","level":"INFO","msg":"stream: closing","id":"evptcy40"}
+{"time":"2024-10-19T01:32:22.971906+11:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"evptcy40"}}
+{"time":"2024-10-19T01:32:22.971936+11:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"evptcy40"}}
+{"time":"2024-10-19T01:32:22.97196+11:00","level":"INFO","msg":"sender: closed","stream_id":"evptcy40"}
+{"time":"2024-10-19T01:32:22.972111+11:00","level":"INFO","msg":"stream: closed","id":"evptcy40"}

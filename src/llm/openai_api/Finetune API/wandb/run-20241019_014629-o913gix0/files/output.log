@@ -1,0 +1,11 @@
+[34m[1mwandb[0m:   2 of 2 files downloaded.  
+Downloaded the validation data at:  /Users/tianyuliu/Code/llm/NLP_examples/src/llm/openai_api/Finetune API/artifacts/valid-file-OPwQ1OtKgw2qOL5byaYdcuQE:v0
+[34m[1mwandb[0m:   2 of 2 files downloaded.  
+Downloaded the validation data at:  /Users/tianyuliu/Code/llm/NLP_examples/src/llm/openai_api/Finetune API/artifacts/valid-file-OPwQ1OtKgw2qOL5byaYdcuQE:v0
+There are 87 validation examples
+[34m[1mwandb[0m:   1 of 1 files downloaded.
+Downloaded the validation data at:  /Users/tianyuliu/Code/llm/NLP_examples/src/llm/openai_api/Finetune API/artifacts/model-metadata:v0
+87it [02:41,  1.86s/it]
+Accuracy is 0.8620689655172413
+87it [00:47,  1.82it/s]
+Baseline Accurcy is: 0.7931034482758621

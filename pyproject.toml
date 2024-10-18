@@ -10,6 +10,10 @@ python = "^3.12"
 gradio = "^5.1.0"
 ipykernel = "^6.29.5"
 openai = "^1.51.2"
+wandb = "^0.18.5"
+tiktoken = "^0.8.0"
+tenacity = "^9.0.0"
+datasets = "^3.0.1"
 
 
 [build-system]
