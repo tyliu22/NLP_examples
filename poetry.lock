@@ -5663,6 +5663,20 @@ starlite = ["starlite (>=1.48)"]
 tornado = ["tornado (>=6)"]
 
 [[package]]
+name = "seqeval"
+version = "1.2.2"
+description = "Testing framework for sequence labeling"
+optional = false
+python-versions = "*"
+files = [
+    {file = "seqeval-1.2.2.tar.gz", hash = "sha256:f28e97c3ab96d6fcd32b648f6438ff2e09cfba87f05939da9b3970713ec56e6f"},
+]
+
+[package.dependencies]
+numpy = ">=1.14.0"
+scikit-learn = ">=0.21.3"
+
+[[package]]
 name = "setproctitle"
 version = "1.3.3"
 description = "A Python module to customize the process title"
@@ -7321,4 +7335,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "ae5b54a590e83065ae2839b19fdea8f02d6fa95ca2d755b3475c451b7f380291"
+content-hash = "da8ddc5795a838998092bb15da06db23a03b8f27047e223971a3600befc79317"

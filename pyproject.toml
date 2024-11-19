@@ -27,6 +27,7 @@ matplotlib = "^3.9.2"
 seaborn = "^0.13.2"
 tf-keras = "^2.18.0"
 rouge = "^1.0.1"
+seqeval = "^1.2.2"
 
 
 [build-system]
